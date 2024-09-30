@@ -32,11 +32,11 @@ app.get('/', (req, res) => {
 });
 app.listen(port, () => {
   console.log(`🔗 Listening to BRIMO: http://localhost:${port}`);
-  console.log(`🔗 Powered By BRIMO`);
+  console.log(`🔗 Powered By redaaa`);
 });
 
 
-const statusMessages = ["Ramadhan Karim","Best Discord Bot"];
+const statusMessages = ["enjoy your RolePlay","Best Discord Bot"];
 
 
 let currentIndex = 0;
