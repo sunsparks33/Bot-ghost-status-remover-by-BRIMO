@@ -31,7 +31,7 @@ app.get('/', (req, res) => {
   res.send('YaY Your Bot Status Changed✨');
 });
 app.listen(port, () => {
-  console.log(`🔗 Listening to BRIMO: http://localhost:${port}`);
+  console.log(`🔗 Listening to 47・Community : http://localhost:${port}`);
   console.log(`🔗 Powered By redaaa`);
 });
 
