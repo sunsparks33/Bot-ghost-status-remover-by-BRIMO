@@ -1,14 +1,15 @@
-/**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : 
+
+               _                   
+  _ __ ___  __| | __ _  __ _  __ _ 
+ | '__/ _ \/ _` |/ _` |/ _` |/ _` |
+ | | |  __/ (_| | (_| | (_| | (_| |
+ |_|  \___|\__,_|\__,_|\__,_|\__,_|
+                                   
+      
+  GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-redaaa
+  DISCORD SERVER : https://discord.gg/zs52EsmZvd
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by redaaa
  * **********************************************
  */
 
@@ -52,17 +53,18 @@ async function login() {
 }
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+ 
+               _                   
+  _ __ ___  __| | __ _  __ _  __ _ 
+ | '__/ _ \/ _` |/ _` |/ _` |/ _` |
+ | | |  __/ (_| | (_| | (_| | (_| |
+ |_|  \___|\__,_|\__,_|\__,_|\__,_|
+                                   
+   
+GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-redaaa
+  DISCORD SERVER : https://discord.gg/zs52EsmZvd
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by redaaa
  * **********************************************
  */
 
@@ -103,16 +105,17 @@ client.once('ready', () => {
 login();
 
 /**
- ██████╗░████████╗██╗░░██╗           
- ██╔══██╗╚══██╔══╝╚██╗██╔╝          
- ██████╔╝░░░██║░░░░╚███╔╝░          
- ██╔══██╗░░░██║░░░░██╔██╗░          
- ██║░░██║░░░██║░░░██╔╝╚██╗          
- ╚═╝░░╚═╝░░░╚═╝░░░╚═╝░░╚═╝          
-GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-RTX
-  DISCORD SERVER : https://discord.gg/FUEHs7RCqz
-  YOUTUBE : https://www.youtube.com/channel/UCPbAvYWBgnYhliJa1BIrv0A
+
+               _                   
+  _ __ ___  __| | __ _  __ _  __ _ 
+ | '__/ _ \/ _` |/ _` |/ _` |/ _` |
+ | | |  __/ (_| | (_| | (_| | (_| |
+ |_|  \___|\__,_|\__,_|\__,_|\__,_|
+                                   
+      
+GIT : https://github.com/RTX-GAMINGG/Bot-ghost-status-remover-by-redaaa
+  DISCORD SERVER : https://discord.gg/zs52EsmZvd
  * **********************************************
- *   Code by RTX GAMING
+ *   Code by redaaa
  * **********************************************
  */
